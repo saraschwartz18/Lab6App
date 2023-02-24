@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/'https://saraschwartz18.github.io/Lab6App/static/css/main.e6c13ad2.css",
+    "main.js": "/'https://saraschwartz18.github.io/Lab6App/static/js/main.8e34716f.js",
+    "static/js/787.aff71482.chunk.js": "/'https://saraschwartz18.github.io/Lab6App/static/js/787.aff71482.chunk.js",
+    "index.html": "/'https://saraschwartz18.github.io/Lab6App/index.html",
+    "main.e6c13ad2.css.map": "/'https://saraschwartz18.github.io/Lab6App/static/css/main.e6c13ad2.css.map",
+    "main.8e34716f.js.map": "/'https://saraschwartz18.github.io/Lab6App/static/js/main.8e34716f.js.map",
+    "787.aff71482.chunk.js.map": "/'https://saraschwartz18.github.io/Lab6App/static/js/787.aff71482.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8e34716f.js"
+  ]
+}
