@@ -2,7 +2,7 @@
   "name": "lab6",
   "version": "0.1.0",
   "private": true,
-  "homepage": "'https://saraschwartz18.github.io/Lab6App",
+  "homepage": "https://saraschwartz18.github.io/Lab6App",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
